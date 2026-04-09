@@ -1,40 +1,13 @@
-# Structure du livre — proposition de travail
+# SYNOPSIS.md — Version rédigée du projet
 
-*Version de travail générée le 2026-04-09 à partir de `structure.md`, `chatgpt.md` et du Memex conceptuel.*
+## Rôle de ce fichier
+Ce fichier contient la **version continue, rédigée et relativement libre** du projet. Il ne répète pas tout le cadrage conceptuel stable : pour l'hypothèse centrale, le fil directeur, la tension théorique canonique et les principes de travail, voir `BOOK_CONTEXT.md` et `AGENTS.md`.
 
----
-
-## 1. Fil directeur / hypothèse centrale
-
-L'hypothèse centrale du livre pourrait être formulée ainsi : **les réseaux sociaux et les IA génératives n'accomplissent pas une promesse d'expression ; ils généralisent au contraire un régime de délégation dans lequel l'expérience, l'affect, la croyance et l'énonciation sont pris en charge par des traces, des foules et des dispositifs.**
-
-Autrement dit, ce que l'on a pris pour une montée en puissance du sujet parlant apparaît rétrospectivement comme la constitution d'un environnement technique où le sujet est à la fois sollicité, dispersé, soulagé et décentré. Les réseaux sociaux ne donnent pas simplement la parole : ils organisent la prolifération de traces détachées de leur foyer d'énonciation, les agrègent en séries, les synchronisent en foules, et produisent ainsi les conditions d'une délégation interpassive du vécu et de la parole. L'IA n'arrive pas après coup comme un phénomène hétérogène : elle **condense** ce régime en une voix synthétique, continue, sans centre, issue d'une multitude de traces et capable de parler à notre place.
-
-La trajectoire générale du livre pourrait donc être :
-
-**trace → série → foule → délégation → voix synthétique**
-
-C'est cette séquence qui permet d'articuler les thèmes de l'interpassivité, des traces, de la désubjectivation, des foules et de l'IA sans les juxtaposer.
+Ici, l'objectif est de donner une **forme discursive** au projet : continuité argumentative, tonalité d'ensemble, formulation éditoriale, articulation des parties et du plan.
 
 ---
 
-## 2. Tension théorique centrale
-
-Le croisement avec le Memex fait apparaître une tension décisive qui pourrait servir de véritable moteur au livre : **toute désubjectivation n'a pas la même portée, et tout soulagement n'est pas nécessairement régressif**.
-
-D'un côté, une lignée de pensée issue notamment de Foucault, Agamben, Nancy ou de certains motifs de la thèse *Faire foule* permet de penser la désubjectivation comme ouverture : sortie du fétichisme du sujet plein, exposition à l'impersonnel, possibilité d'un commun non fondé sur la transparence mutuelle. Le point important est que cette ouverture peut aussi soulager de l'exigence à être soi ; le soulagement n'y vaut pas comme fuite, mais comme décharge qui rend l'expérience de l'impersonnel possible.
-
-De l'autre, l'hypothèse plus récente de l'interpassivité des foules, nourrie de Pfaller, Žižek, Freud et Lacan, invite à isoler une autre pente : non pas le soulagement comme ouverture, mais le soulagement comme renoncement, lorsque l'expérience se perd dans le jeu autonome des signes, dans la circulation spectaculaire des réactions et des affects déjà pris en charge. Dans ce cas, il n'est peut-être même plus tout à fait question de désubjectivation au sens fort, si la désubjectivation est encore une expérience — fût-ce l'expérience de sa propre débâcle.
-
-La question centrale du livre pourrait alors être formulée ainsi :
-
-> **Comment distinguer une désubjectivation qui décharge le sujet de l'obligation d'être soi en l'ouvrant à l'impersonnel, d'une déprise où cette ouverture se défait en anesthésie, en renoncement ou en spectacle ?**
-
-Cette question donne au projet une profondeur plus forte qu'une simple critique des plateformes ou de l'IA : elle en fait une enquête sur les formes contemporaines du rapport entre symbolique, technique, perception et subjectivation.
-
----
-
-## 3. Synopsis
+## Synopsis continu
 
 ### Introduction — Des réseaux sociaux à l'IA : généalogie d'une voix sans sujet
 
@@ -70,7 +43,7 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 
 ---
 
-## 4. Table des matières proposée
+## Plan provisoire
 
 ### Introduction générale — Des réseaux sociaux à l'IA : généalogie d'une voix sans sujet
 - Les réseaux sociaux comme condition de possibilité technique de l'IA
@@ -174,27 +147,7 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 
 ---
 
-## 5. Formule de problématisation courte
-
-> **Les réseaux sociaux et l'IA ne réalisent pas l'avènement d'une expression généralisée ; ils installent un régime de traces, de sérialité et de délégation où l'expérience, la croyance et l'énonciation sont de plus en plus prises en charge par des dispositifs impersonnels.**
-
-Ou, en version plus tendue :
-
-> **Le problème contemporain n'est pas que les machines apprennent à parler comme nous, mais que nous ayons déjà appris à habiter un monde où parler, croire et sentir peuvent être délégués.**
-
----
-
-## 6. Schéma d'enchaînement conseillé
-
-Pour éviter une structure en blocs juxtaposés, l'enchaînement le plus fort semble être :
-
-1. **révoquer l'expressivisme**
-2. **penser la trace**
-3. **penser la série**
-4. **penser la foule**
-5. **introduire la désubjectivation**
-6. **faire basculer vers l'interpassivité**
-7. **montrer l'IA comme condensation de tout cela**
-8. **ouvrir sur une politique des dispositifs qui ménagent le vide**
-
-Ce fil permet d'articuler sans les disperser les thèmes déjà présents dans les notes : interactivité, interpassivité, intimité anonyme, trace et mélancolie, désubjectivation, foule, IA, animisme de l'IA.
+## Note d'usage
+- Les **formulations canoniques** du projet sont dans `BOOK_CONTEXT.md`.
+- Les **arbitrages en cours** et les prochaines étapes sont dans `TODO.md`.
+- Ce fichier peut évoluer plus librement tant qu'il reste un **synopsis rédigé** et non un doublon du contexte.

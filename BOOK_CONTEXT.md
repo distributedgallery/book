@@ -1,4 +1,12 @@
-# BOOK_CONTEXT.md — Contexte de travail du projet
+# BOOK_CONTEXT.md — Contexte stable du projet
+
+## Rôle de ce fichier
+Ce fichier rassemble le **cadrage conceptuel stable** du livre : hypothèse centrale, fil directeur, tension théorique, gestes critiques, notions-clés, auteurs et dangers à éviter.
+
+Il ne doit pas devenir un synopsis rédigé ni un journal de chantier :
+- la **version continue et rédigée** du projet va dans `SYNOPSIS.md` ;
+- les **décisions provisoires, arbitrages et prochaines étapes** vont dans `TODO.md` ;
+- les **consignes opérationnelles pour agents** vont dans `AGENTS.md`.
 
 ## 1. Objet du projet
 
@@ -70,7 +78,7 @@ Ne pas partir de l'idée que les réseaux sociaux seraient d'abord des dispositi
 
 ### Renverser le problème de l'IA
 Ne pas demander d'abord : comment l'IA imite-t-elle l'humain ?
-Demander aussi : comment se fait-il que les humains aient déjà appris à parler, se montrer et se mettre en série comme des moyennes statistiques ?
+Demander plutôt : comment se fait-il que les humains aient déjà appris à parler, se montrer et se mettre en série comme des moyennes statistiques ? N'étions nous pas des perroquets stochastiques avant les machines ? Et cet état de perroquet stochastique n'était-il pas la condition d'apparition des IAs ?
 
 ### Ne pas opposer naïvement sujet humain / machine
 L'enjeu n'est pas de restaurer un sujet plein contre les machines, mais de comprendre les formes contemporaines de délégation de l'énonciation.
@@ -141,9 +149,10 @@ Le point politique décisif est de savoir quels dispositifs ménagent encore un 
 
 ---
 
-## 10. Usage des autres fichiers du dossier
+## 10. Articulation avec les autres fichiers
 
-- `SYNOPSIS.md` : version longue et continue du projet
-- `TODO.md` : décisions provisoires, chantiers, arbitrages, prochaines étapes
+- `AGENTS.md` : mode d'emploi court pour agents
+- `SYNOPSIS.md` : version rédigée, continue et plus libre du projet
+- `TODO.md` : état courant, décisions provisoires, chantiers, arbitrages, prochaines étapes
 
-Ce fichier (`BOOK_CONTEXT.md`) doit rester relativement stable. Il sert de base commune pour relancer rapidement le travail avec un agent humain ou IA.
+Ce fichier doit rester relativement stable. Il sert de base commune pour relancer rapidement le travail avec un agent humain ou IA sans réécrire tout le projet.

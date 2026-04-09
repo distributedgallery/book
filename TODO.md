@@ -3,7 +3,7 @@
 ## Chantiers immédiats
 - [ ] Stabiliser l'architecture générale du livre
 - [ ] Décider du nombre de parties / chapitres
-- [ ] Distinguer ce qui relève du synopsis, du contexte durable et du plan de rédaction
+- [x] Distinguer ce qui relève du synopsis, du contexte durable et du plan de rédaction
 - [ ] Identifier les concepts déjà couverts dans le Memex et ceux à développer
 - [ ] Lister les références incontournables par chapitre
 
