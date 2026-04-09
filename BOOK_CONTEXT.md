@@ -50,16 +50,16 @@ Ce fil permet d'éviter une juxtaposition de thèmes.
 
 ## 5. Tension théorique centrale
 
-Toute désubjectivation n'a pas la même valeur.
+Toute désubjectivation n'a pas la même portée, et tout soulagement n'est pas nécessairement régressif.
 
 ### Pôle 1 — Désubjectivation ouvrante
-L'impersonnel peut ouvrir un commun non fondé sur la transparence mutuelle, exposer à un dehors fécond, défaire le fétichisme du sujet plein.
+La déprise de soi peut soulager de l'exigence à être soi tout en exposant à l'impersonnel. Le soulagement n'y vaut pas comme dispense, mais comme condition d'accès à un commun non fondé sur la transparence mutuelle ni sur le fétichisme du sujet plein.
 
-### Pôle 2 — Interpassivité anesthésiante
-L'impersonnel peut aussi devenir un régime de soulagement : déléguer à d'autres le soin de sentir, croire, parler et assumer la charge de la subjectivation.
+### Pôle 2 — Renoncement anesthésié / spectaculaire
+La déprise peut aussi tourner au renoncement : l'expérience ne s'intensifie pas dans l'impersonnel, elle se perd dans le jeu autonome des signes, dans un régime de circulation et de contemplation proche du spectacle au sens de Debord. Dans ce cas, il n'est peut-être même plus tout à fait question de désubjectivation, si celle-ci suppose encore une expérience — fût-ce l'expérience forte d'assister à sa propre débâcle.
 
 ### Question centrale
-**Quand l'impersonnel ouvre-t-il une puissance de commun, et quand devient-il au contraire un régime interpassif qui neutralise l'émergence du sujet ?**
+**Comment distinguer une désubjectivation qui décharge le sujet de l'obligation d'être soi en l'ouvrant à l'impersonnel, d'une déprise où cette ouverture se défait en anesthésie, en renoncement ou en spectacle ?**
 
 ---
 

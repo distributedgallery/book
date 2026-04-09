@@ -20,15 +20,15 @@ C'est cette séquence qui permet d'articuler les thèmes de l'interpassivité, d
 
 ## 2. Tension théorique centrale
 
-Le croisement avec le Memex fait apparaître une tension décisive qui pourrait servir de véritable moteur au livre : **toute désubjectivation n'a pas la même valeur**.
+Le croisement avec le Memex fait apparaître une tension décisive qui pourrait servir de véritable moteur au livre : **toute désubjectivation n'a pas la même portée, et tout soulagement n'est pas nécessairement régressif**.
 
-D'un côté, une lignée de pensée issue notamment de Foucault, Agamben, Nancy ou de certains motifs de la thèse *Faire foule* permet de penser la désubjectivation comme ouverture : sortie du fétichisme du sujet plein, exposition à l'impersonnel, possibilité d'un commun non fondé sur la transparence mutuelle.
+D'un côté, une lignée de pensée issue notamment de Foucault, Agamben, Nancy ou de certains motifs de la thèse *Faire foule* permet de penser la désubjectivation comme ouverture : sortie du fétichisme du sujet plein, exposition à l'impersonnel, possibilité d'un commun non fondé sur la transparence mutuelle. Le point important est que cette ouverture peut aussi soulager de l'exigence à être soi ; le soulagement n'y vaut pas comme fuite, mais comme décharge qui rend l'expérience de l'impersonnel possible.
 
-De l'autre, l'hypothèse plus récente de l'interpassivité des foules, nourrie de Pfaller, Žižek, Freud et Lacan, conduit à une lecture plus critique : l'impersonnel peut aussi devenir un mode de soulagement, une manière de déléguer à d'autres le soin de sentir, de croire, de parler et d'assumer la charge de la subjectivation.
+De l'autre, l'hypothèse plus récente de l'interpassivité des foules, nourrie de Pfaller, Žižek, Freud et Lacan, invite à isoler une autre pente : non pas le soulagement comme ouverture, mais le soulagement comme renoncement, lorsque l'expérience se perd dans le jeu autonome des signes, dans la circulation spectaculaire des réactions et des affects déjà pris en charge. Dans ce cas, il n'est peut-être même plus tout à fait question de désubjectivation au sens fort, si la désubjectivation est encore une expérience — fût-ce l'expérience de sa propre débâcle.
 
 La question centrale du livre pourrait alors être formulée ainsi :
 
-> **Quand l'impersonnel ouvre-t-il une puissance de commun, et quand devient-il au contraire un régime interpassif qui neutralise l'émergence du sujet ?**
+> **Comment distinguer une désubjectivation qui décharge le sujet de l'obligation d'être soi en l'ouvrant à l'impersonnel, d'une déprise où cette ouverture se défait en anesthésie, en renoncement ou en spectacle ?**
 
 Cette question donne au projet une profondeur plus forte qu'une simple critique des plateformes ou de l'IA : elle en fait une enquête sur les formes contemporaines du rapport entre symbolique, technique, perception et subjectivation.
 
@@ -56,7 +56,7 @@ Le premier concerne la **trace**. Les environnements numériques ne se définiss
 
 Le deuxième déplacement concerne la **forme-série** et les **foules**. Les traces numériques n'apparaissent pas isolément : elles sont immédiatement prises dans des formats, des interfaces, des successions, des alignements, des bases de données visuelles ou textuelles. Cette mise en série modifie la perception elle-même. Nous ne rencontrons pas seulement des individus, mais des singularités quelconques juxtaposées ; non des sujets pleinement constitués, mais des unités formatées, répétées, comparables. La foule numérique n'est ni le peuple classique ni la masse indistincte : elle est une structure perceptive et sociale faite de répétition, de prolifération et d'observation distribuée.
 
-Le troisième déplacement concerne la **désubjectivation**. Une telle configuration peut être lue de deux manières. D'un côté, elle semble ouvrir la possibilité d'une sortie du mythe du sujet autosuffisant : les foules, les séries, l'anonymat et l'opacité peuvent rendre pensable un commun non fondé sur la transparence des consciences. D'un autre côté, cette même désubjectivation peut être relue, à partir de Pfaller, Žižek et Lacan, comme un régime interpassif : non plus l'ouverture d'un dehors fécond, mais la délégation à d'autres de la charge même d'être sujet. Le problème n'est pas seulement que nous soyons dépossédés ; c'est aussi que nous puissions trouver dans cette dépossession un soulagement.
+Le troisième déplacement concerne la **désubjectivation**. Une telle configuration peut être lue de deux manières. D'un côté, elle semble ouvrir la possibilité d'une sortie du mythe du sujet autosuffisant : les foules, les séries, l'anonymat et l'opacité peuvent rendre pensable un commun non fondé sur la transparence des consciences. Dans cette perspective, être déchargé de l'obligation d'être soi n'est pas nécessairement une perte ; cela peut être la condition même d'une exposition à l'impersonnel. D'un autre côté, la lecture ouverte par Pfaller, Žižek et Lacan oblige à distinguer un autre devenir possible de cette déprise : lorsque le soulagement tourne au renoncement, lorsque d'autres prennent en charge non seulement des affects ou des croyances, mais l'expérience elle-même, la désubjectivation se dégrade en circulation autonome de signes, en quasi-spectacle. Le problème n'est donc pas simplement que nous soyons dépossédés ; c'est de savoir si cette dépossession demeure une expérience, ou si elle s'abolit dans son administration interpassive.
 
 C'est ici qu'intervient le concept d'**interpassivité**. Là où l'interactivité promettait l'action, l'interpassivité désigne la délégation de la passivité elle-même : déléguer à d'autres le soin de rire, pleurer, croire, jouir, se scandaliser, voyager, opiner. Appliqué aux réseaux sociaux, le concept permet de renverser l'hypothèse expressiviste dominante. Si nous scrollons sans fin, ce n'est peut-être pas pour recueillir les expressions singulières d'autrui, mais parce que les autres nous dispensent d'avoir à dire, sentir et croire nous-mêmes. Les foules numériques nous offrent un réservoir d'expériences déjà vécues, déjà commentées, déjà validées. Elles ne nous mobilisent pas nécessairement ; elles peuvent aussi nous reposer de nous-mêmes.
 
@@ -64,7 +64,7 @@ La référence à **Lacan** permet d'approfondir ce diagnostic. Si le sujet n'é
 
 L'**IA générative** apparaît alors sous un nouveau jour. Elle ne se contente pas d'automatiser certaines tâches cognitives ; elle prend en charge une part croissante de l'énonciation elle-même. Or cette délégation n'est intelligible qu'à partir du monde qui l'a précédée : un monde déjà habitué à la standardisation des styles, à la répétition des formes, à la circulation de signes sans expérience pleinement assumée. Le chatbot représente la condensation d'une foule textuelle en une voix continue. Il n'est ni un sujet classique ni un simple instrument. Il fait émerger une voix collective autre, une forme d'adresse impersonnelle, localement située dans des corpus, des usages, des controverses, mais sans foyer identifiable.
 
-Le livre n'entend pourtant ni célébrer ni condamner abstraitement cette mutation. Son enjeu est plus précis : **distinguer les formes d'impersonnalité qui ouvrent de celles qui anesthésient**. Toute désubjectivation n'est pas aliénante ; toute délégation n'est pas mutilante. Il existe peut-être des dispositifs qui ménagent un vide, qui n'épuisent pas d'avance le symbolique, qui rendent possible une parole non souveraine mais néanmoins non substituée. La question politique n'est donc pas de restaurer un sujet plein contre les machines, les foules ou les traces. Elle consiste à savoir quels environnements techniques, perceptifs et symboliques nous condamnent à la délégation interpassive, et lesquels permettent encore qu'advienne quelque chose comme une prise de parole.
+Le livre n'entend pourtant ni célébrer ni condamner abstraitement cette mutation. Son enjeu est plus précis : **distinguer les désubjectivations qui ouvrent de celles qui se défont en anesthésie ou en spectacle**. Toute décharge de soi n'est pas aliénante ; toute délégation n'est pas mutilante. Le soulagement du surmoi peut lui-même avoir une vertu positive lorsqu'il ouvre à une expérience impersonnelle plutôt qu'il ne la remplace. Il existe peut-être des dispositifs qui ménagent un vide, qui n'épuisent pas d'avance le symbolique, qui rendent possible une parole non souveraine mais néanmoins non substituée. La question politique n'est donc pas de restaurer un sujet plein contre les machines, les foules ou les traces. Elle consiste à savoir quels environnements techniques, perceptifs et symboliques transforment la déprise en renoncement administré, et lesquels permettent encore qu'advienne quelque chose comme une prise de parole.
 
 Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critique des médias numériques, théorie des foules, psychanalyse, philosophie de la technique, théorie de l'écriture et réflexion sur les formes contemporaines de l'impersonnel. Son ambition n'est pas de juxtaposer ces domaines, mais de montrer qu'ils convergent autour d'un même problème : **qu'arrive-t-il à la subjectivation quand le monde commun prend la forme d'une prolifération de traces et d'une délégation généralisée de l'énonciation ?**
 
@@ -120,11 +120,11 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 - Observation distribuée et métriques
 - La foule comme structure perceptive et sociale
 
-#### Chapitre 7 — Désubjectivation : puissance ou capture ?
+#### Chapitre 7 — Désubjectivation : ouverture ou renoncement ?
 - Sortir du sujet plein
 - Agamben, Foucault, Nancy : penser l'impersonnel
-- La valeur politique ambiguë de la désubjectivation
-- Quand le commun ouvre, quand il neutralise
+- Le soulagement comme décharge positive
+- Quand le commun ouvre, quand l'expérience se perd
 
 ### Quatrième partie — L'interpassivité des foules
 
@@ -144,7 +144,7 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 - Injonction à être soi
 - Sujet lacanien et trou du symbolique
 - Le feed comme symbolique sans manque
-- L'interpassivité comme stratégie anti-sujet
+- Du soulagement à la fuite hors expérience
 
 ### Cinquième partie — L'IA, ou la foule devenue voix
 
@@ -168,7 +168,7 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 
 ### Conclusion — Ménager le vide
 - Distinguer les régimes de l'impersonnel
-- Désubjectivation ouvrante vs interpassivité anesthésiante
+- Désubjectivation ouvrante vs renoncement spectaculaire
 - Quels dispositifs laissent une place au manque ?
 - Pour une politique non saturée de l'énonciation
 

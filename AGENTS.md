@@ -19,8 +19,10 @@ Les réseaux sociaux constituent la condition de possibilité technique et perce
 
 ## Tension théorique centrale
 Toujours distinguer :
-- une **désubjectivation ouvrante**, qui expose à l'impersonnel et peut rendre possible un commun ;
-- une **interpassivité anesthésiante**, qui soulage du surmoi et dispense de subjectivation.
+- une **désubjectivation ouvrante**, qui peut soulager de l'exigence à être soi précisément parce qu'elle expose à l'impersonnel et rend possible un commun ;
+- une **déprise anesthésiée ou spectaculaire**, où le soulagement tourne au renoncement, où l'expérience se perd dans le jeu autonome des signes, et où il n'est peut-être même plus vraiment question de désubjectivation au sens fort.
+
+Ne pas présupposer que l'interpassivité est négative en tant que telle : le soulagement du surmoi peut aussi avoir une valeur positive. Le problème apparaît quand ce soulagement dispense de subjectivation au lieu d'ouvrir une expérience de l'impersonnel.
 
 ## Consignes de travail
 - Ne pas rabattre le projet sur une simple critique morale des réseaux sociaux ou de l'IA.
