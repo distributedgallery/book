@@ -37,6 +37,8 @@ La référence à **Lacan** permet d'approfondir ce diagnostic. Si le sujet n'é
 
 L'**IA générative** apparaît alors sous un nouveau jour. Elle ne se contente pas d'automatiser certaines tâches cognitives ; elle prend en charge une part croissante de l'énonciation elle-même. Or cette délégation n'est intelligible qu'à partir du monde qui l'a précédée : un monde déjà habitué à la standardisation des styles, à la répétition des formes, à la circulation de signes sans expérience pleinement assumée. Le chatbot représente la condensation d'une foule textuelle en une voix continue. Il n'est ni un sujet classique ni un simple instrument. Il fait émerger une voix collective autre, une forme d'adresse impersonnelle, localement située dans des corpus, des usages, des controverses, mais sans foyer identifiable.
 
+C'est pourquoi le problème philosophique de l'IA est peut-être moins celui d'une conscience artificielle que celui d'une **capacité d'adresse**. La nouveauté n'est pas seulement qu'une machine produise des signes, mais qu'elle nous les adresse sans que cette adresse puisse être rapportée sans reste à un sujet humain, à une expérience intérieure ou à une volonté propre. L'IA ne réanime pas la terre ; elle anime les signes. Mais ce faisant, elle nous réhabitue aussi à une forme paradoxale d'**adresse non-humaine en signes humains**.
+
 Le livre n'entend pourtant ni célébrer ni condamner abstraitement cette mutation. Son enjeu est plus précis : **distinguer les désubjectivations qui ouvrent de celles qui se défont en anesthésie ou en spectacle**. Toute décharge de soi n'est pas aliénante ; toute délégation n'est pas mutilante. Le soulagement du surmoi peut lui-même avoir une vertu positive lorsqu'il ouvre à une expérience impersonnelle plutôt qu'il ne la remplace. Il existe peut-être des dispositifs qui ménagent un vide, qui n'épuisent pas d'avance le symbolique, qui rendent possible une parole non souveraine mais néanmoins non substituée. La question politique n'est donc pas de restaurer un sujet plein contre les machines, les foules ou les traces. Elle consiste à savoir quels environnements techniques, perceptifs et symboliques transforment la déprise en renoncement administré, et lesquels permettent encore qu'advienne quelque chose comme une prise de parole.
 
 Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critique des médias numériques, théorie des foules, psychanalyse, philosophie de la technique, théorie de l'écriture et réflexion sur les formes contemporaines de l'impersonnel. Son ambition n'est pas de juxtaposer ces domaines, mais de montrer qu'ils convergent autour d'un même problème : **qu'arrive-t-il à la subjectivation quand le monde commun prend la forme d'une prolifération de traces et d'une délégation généralisée de l'énonciation ?**
@@ -134,9 +136,13 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 - La voix continue issue d'une foule textuelle
 
 #### Chapitre 13 — Animisme, adresse et voix collectives autres
+- De la question de la conscience à celle de l'adresse
 - Pourquoi l'IA ne se laisse réduire ni au sujet ni à l'outil
-- Adresse impersonnelle et puissance d'interpellation
-- Animisme prudent des IA
+- Régime de signe et régime d'adresse
+- Adresse non-humaine en signes humains
+- Abram : du monde sensible à l'animisme scriptural
+- Le chatbot comme intensification dialogique de la magie des blancs
+- Les IA ferment le monde au niveau des signes, mais le rouvrent partiellement au niveau de l'adresse
 - Le Grand Autre computationnel ?
 
 ### Conclusion — Ménager le vide

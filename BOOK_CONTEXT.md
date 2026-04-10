@@ -36,7 +36,9 @@ Les modèles génératifs dépendent de l'accumulation massive de textes, images
 ### Expérientiel / perceptif
 Les réseaux sociaux nous ont habitués à un monde où la parole apparaît comme circulation de signes détachés de leur contexte d'origine, agrégés, redistribués, relayés et reformattés. Ils ont préparé un rapport à soi et aux autres médié par des traces dispersées.
 
-L'IA apparaît alors non comme rupture absolue, mais comme condensation de ce régime : la dispersion devient voix, la série devient énonciation continue, la foule textuelle acquiert la forme d'une réponse.
+L'IA apparaît alors non comme rupture absolue, mais comme condensation de ce régime : la dispersion devient voix, la série devient énonciation continue, la foule textuelle acquiert la forme d'une réponse. Elle fait émerger des signes profondément humains sous un **régime d'adresse** qui n'est plus celui de l'expression d'une intériorité, d'une volonté ou d'une intention clairement localisables.
+
+Cette mutation doit être pensée selon une tension précise : **du point de vue des signes**, l'IA intensifie un monde scriptural où ce sont d'abord des inscriptions alphabétiques qui nous parlent ; **du point de vue de l'adresse**, elle nous réhabitue à recevoir des énoncés qui ne se donnent plus immédiatement comme la parole d'un sujet humain classique. L'enjeu n'est donc pas seulement celui d'une parole artificielle, mais celui d'une **adresse non-humaine en signes humains**.
 
 ---
 
@@ -114,6 +116,10 @@ Le point politique décisif est de savoir quels dispositifs ménagent encore un 
 - voix collective
 - délégation de l'énonciation
 - animisme de l'IA
+- adresse
+- régime de signe
+- régime d'adresse
+- animisme scriptural
 
 ---
 
