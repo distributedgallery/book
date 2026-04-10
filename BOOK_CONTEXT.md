@@ -58,16 +58,25 @@ Ce fil permet d'éviter une juxtaposition de thèmes.
 
 ## 5. Tension théorique centrale
 
-Toute désubjectivation n'a pas la même portée, et tout soulagement n'est pas nécessairement régressif.
+Toute désubjectivation n'a pas la même portée, et tout soulagement n'est pas nécessairement régressif. La question décisive n'est pas d'abord morale, mais phénoménologique : **que devient l'expérience quand le sujet est dépris de sa position de centre, d'origine ou d'assomption ?**
 
 ### Pôle 1 — Désubjectivation ouvrante
 La déprise de soi peut soulager de l'exigence à être soi tout en exposant à l'impersonnel. Le soulagement n'y vaut pas comme dispense, mais comme condition d'accès à un commun non fondé sur la transparence mutuelle ni sur le fétichisme du sujet plein.
 
-### Pôle 2 — Renoncement anesthésié / spectaculaire
+Dans ce premier régime, la désubjectivation n'est pas suppression du sujet mais **désappropriation** de la subjectivité. Elle suspend l'obligation d'être l'origine de ses propres actes sans abolir pour autant l'intensité de la présence. Le sujet y est moins remplacé qu'emporté, moins annulé que traversé. La passivité n'y relève ni du simple réflexe ni de l'habitude : elle demeure une passivité encore vécue, une exposition, une capacité accrue d'être affecté.
+
+### Pôle 2 — Désubjectivation régressive / renoncement anesthésié
 La déprise peut aussi tourner au renoncement : l'expérience ne s'intensifie pas dans l'impersonnel, elle se perd dans le jeu autonome des signes, dans un régime de circulation et de contemplation proche du spectacle au sens de Debord. Dans ce cas, il n'est peut-être même plus tout à fait question de désubjectivation, si celle-ci suppose encore une expérience — fût-ce l'expérience forte d'assister à sa propre débâcle.
 
+Ce second régime peut être décrit comme une **désubjectivation régressive** : non plus déprise ouvrante, mais relève de l'expérience par le dispositif. Quelque chose voit, sent, réagit, croit ou parle à la place du sujet. Celui-ci n'est plus exposé à un dehors ; il est soulagé d'avoir à vivre, à éprouver, à énoncer. La passivité y bascule dans l'automatisme, la saturation, la substitution interpassive.
+
+### Critère opératoire — rythmique vs métrique
+Une distinction utile peut être formulée à partir du **rythme**, entendu non comme critère moral mais comme **critère phénoménologique**. Le rythme désigne ici une forme de passivité qui dessaisit le sujet sans abolir sa présence : seuils, retards, reprises, respirations, interstices. Il ouvre une participation impersonnelle encore vécue.
+
+À l'inverse, le **métrique** désigne la cadence de capture propre aux dispositifs de flux : enchaînement optimisé, remplissage continu, saturation des intervalles, suppression des temps morts où quelque chose pourrait advenir. Le problème n'est donc pas la perte de maîtrise en elle-même, mais le régime temporel de cette perte : **désubjectivation rythmique, qui ouvre un dehors, ou désubjectivation métrique, qui administre et anesthésie la passivité**.
+
 ### Question centrale
-**Comment distinguer une désubjectivation qui décharge le sujet de l'obligation d'être soi en l'ouvrant à l'impersonnel, d'une déprise où cette ouverture se défait en anesthésie, en renoncement ou en spectacle ?**
+**Comment distinguer une désubjectivation qui décharge le sujet de l'obligation d'être soi en l'ouvrant à l'impersonnel, d'une déprise où cette ouverture se défait en anesthésie, en renoncement ou en spectacle ? Plus précisément : à quelles conditions un dispositif ménage-t-il une passivité encore vécue, rythmique, ouverte, plutôt qu'une passivation métrique où l'expérience est anesthésiée par la circulation automatique des signes ?**
 
 ---
 
