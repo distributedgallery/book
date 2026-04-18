@@ -1,6 +1,7 @@
 # TODO.md — Projet de livre
 
 ## Chantiers immédiats
+- [ ] Apprendre à utiliser git pour Luca
 - [ ] Stabiliser l'architecture générale du livre
 - [ ] Décider du nombre de parties / chapitres
 - [x] Distinguer ce qui relève du synopsis, du contexte durable et du plan de rédaction
