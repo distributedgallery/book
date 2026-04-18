@@ -13,7 +13,7 @@ Ce dépôt sert à organiser un processus d’écriture où plusieurs types d’
 
 Dans un tel cadre, un problème apparaît vite : **comment conserver une continuité de pensée quand les interlocuteurs changent sans cesse ?**
 
-Un humain arrive avec sa mémoire implicite, ses habitudes, ses intuitions.
+Un humain arrive avec sa mémoire implicite, ses habitudes, ses intuitions, ses routines.
 Une machine arrive avec sa puissance de reformulation, mais sans mémoire stable du projet, sauf si on la lui donne.
 D’où la nécessité de fichiers qui ne servent pas seulement à stocker du contenu, mais à **rendre l’écriture partageable, relançable et transmissible** entre des mains hétérogènes.
 
