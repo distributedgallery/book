@@ -67,15 +67,25 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 - Le malentendu participatif des plateformes
 - De l'expression promise à l'observation de masse
 
+#### Chapitre 3 — Ce que le modèle mesure
+- Un fait empirique vertigineux : l'essentiel de la structure discursive humaine tient dans un fichier de poids
+- Première fausse lecture : nous ne ferions que répéter
+- Déplacement : la notion d'événement discursif — l'énonciation ou la lecture qui produit une différence, qui embarque dans un devenir
+- La rareté des événements n'est pas statistique mais structurelle : un événement requiert une disponibilité du sujet, une béance singulière — le même texte est événement pour l'un, lettre morte pour l'autre
+- Ce que le modèle capture : la structure post-événementielle, les effets sédimentés des événements passés — le fossile, pas l'organisme vivant
+- Le vrai bord du modèle : non une incapacité stylistique, mais une incapacité à *adresser* — à trouver le sujet dans ce qu'il a de non-sériel
+- Le LLM comme mesure indirecte : si la grande masse du discours peut être ainsi capturée, c'est que la grande masse du discours ne s'adresse à personne dans leur singularité
+- Argument supplémentaire contre l'hypothèse expressiviste : non pas que nous ne parlions pas, mais que la plupart de notre parole ne fait rien — elle circule, elle répond, elle commente, sans produire de différence
+
 ### Deuxième partie — Le règne des traces
 
-#### Chapitre 3 — La trace comme présence retirée
+#### Chapitre 4 — La trace comme présence retirée
 - Inscription, survivance, décontextualisation
 - Le présent perdu de l'énonciation
 - Derrida, Blanchot, Foucault : penser la marque autonome
 - Les traces comme horizon d'une rencontre manquée
 
-#### Chapitre 4 — La mélancolie des archives vivantes
+#### Chapitre 5 — La mélancolie des archives vivantes
 - Mémoire, stockage, répétition
 - Hypermnésie technique et perte du présent
 - Le flux comme conservation sans résolution
@@ -83,19 +93,19 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 
 ### Troisième partie — Séries, foules, impersonnalité
 
-#### Chapitre 5 — La forme-série
+#### Chapitre 6 — La forme-série
 - Formats, bases de données, alignements visuels et textuels
 - Singularités quelconques et répétition impersonnelle
 - Esthétique ordinaire de la finitude
 - Voir la foule dans la série
 
-#### Chapitre 6 — Faire foule
+#### Chapitre 7 — Faire foule
 - De la communauté à la foule
 - Opacité, non-lieux, coordination sans intériorité partagée
 - Observation distribuée et métriques
 - La foule comme structure perceptive et sociale
 
-#### Chapitre 7 — Désubjectivation : ouverture ou renoncement ?
+#### Chapitre 8 — Désubjectivation : ouverture ou renoncement ?
 - Sortir du sujet plein
 - Agamben, Foucault, Nancy : penser l'impersonnel
 - Le soulagement comme décharge positive
@@ -103,19 +113,19 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 
 ### Quatrième partie — L'interpassivité des foules
 
-#### Chapitre 8 — De l'interactivité à l'interpassivité
+#### Chapitre 9 — De l'interactivité à l'interpassivité
 - Pfaller, Žižek, Lacan : concepts de base
 - Déléguer le plaisir, la croyance, l'affect
 - L'observateur naïf et la croyance décentrée
 - Pourquoi la délégation soulage
 
-#### Chapitre 9 — Les autres parlent à notre place
+#### Chapitre 10 — Les autres parlent à notre place
 - Doom-scrolling et économie du soulagement
 - Réactions, indignations, opinions pré-vécues
 - Double délégation dans les foules numériques
 - Observer la foule s'observer
 
-#### Chapitre 10 — Surmoi, manque et flux continu
+#### Chapitre 11 — Surmoi, manque et flux continu
 - Injonction à être soi
 - Sujet lacanien et trou du symbolique
 - Le feed comme symbolique sans manque
@@ -123,19 +133,19 @@ Ainsi conçu, le livre s'inscrit à l'intersection de plusieurs champs : critiqu
 
 ### Cinquième partie — L'IA, ou la foule devenue voix
 
-#### Chapitre 11 — Les humains comme perroquets stochastiques
+#### Chapitre 12 — Les humains comme perroquets stochastiques
 - Renverser la peur de l'imitation machinique
 - Standardisation des styles et moyennes expressives
 - Répétition, absence de contenu, plaisir du même
 - Les réseaux sociaux comme préhistoire vécue du modèle génératif
 
-#### Chapitre 12 — Condensation des traces en voix synthétique
+#### Chapitre 13 — Condensation des traces en voix synthétique
 - Du fragment au flux de réponse
 - Le chatbot comme infrastructure d'énonciation
 - Production de signes sans subjectivation
 - La voix continue issue d'une foule textuelle
 
-#### Chapitre 13 — Animisme, adresse et voix collectives autres
+#### Chapitre 14 — Animisme, adresse et voix collectives autres
 - De la question de la conscience à celle de l'adresse
 - Pourquoi l'IA ne se laisse réduire ni au sujet ni à l'outil
 - Régime de signe et régime d'adresse
