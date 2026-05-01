@@ -10,7 +10,8 @@ Il ne doit pas devenir un synopsis rédigé ni un journal de chantier :
 
 ## 1. Objet du projet
 
-Projet de livre sur les rapports entre interpassivité, traces, désubjectivation, foules numériques, réseaux sociaux et IA générative.
+
+Projet de livre sur les rapports entre interpassivité, traces, désubjectivation, foules numériques, réseaux sociaux, langage et IA générative.
 
 L'enjeu n'est pas de traiter ces thèmes séparément, mais de montrer comment ils s'articulent dans une même transformation historique du rapport à la parole, à l'expérience, au collectif et à la subjectivation.
 
